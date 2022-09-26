@@ -14,16 +14,16 @@ Also, I have used the local MYSQL database, and the python classes in `models.py
 
 ## Module Description:
 **Admin Features of Online Car Rental system in Django**
-*Sign up –* The admin needs to sign up first to create an account.
-*Login –* After creating an account, The admin need to login first to enable to access the system.
-*Manage Order –* For the order, The admin can view order of the customer.
-*Sales Management –* The admin can view the daily sales.
-*Manage Vehicle –* The admin can add, update, and delete vehicle information.
-*Homepage –* In the homepage you can see the orders, sales, home, and vehicles.
+* *Sign up –* The admin needs to sign up first to create an account.
+* *Login –* After creating an account, The admin need to login first to enable to access the system.
+* *Manage Order –* For the order, The admin can view order of the customer.
+* *Sales Management –* The admin can view the daily sales.
+* *Manage Vehicle –* The admin can add, update, and delete vehicle information.
+* *Homepage –* In the homepage you can see the orders, sales, home, and vehicles.
 
 **User Features of Online Car Rental system in Django**
-*Sign up –* The user needs to sign up first to create an account.
-*Login –* After creating an account, The user need to login first to enable to access the system.
-*Search Car–* For the search car, The user will search a car to rent.
-*Rent Car –* The user can update, delete orders and view the car details.
+* *Sign up –* The user needs to sign up first to create an account.
+* *Login –* After creating an account, The user need to login first to enable to access the system.
+* *Search Car–* For the search car, The user will search a car to rent.
+* *Rent Car –* The user can update, delete orders and view the car details.
 
