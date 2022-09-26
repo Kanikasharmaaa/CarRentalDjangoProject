@@ -7,7 +7,7 @@ Also, I have used the local MYSQL database, and the python classes in `models.py
 
 ## Steps to execute the project
 
-1. Open MYSQL workbench and execute the following commands: ``` DROP DATABASE IF EXISTS `ocrsdjango`; CREATE DATABASE `ocrsdjango`; USE `ocrsdjango`; ``` And a new database will be created.
+1. Open MYSQL workbench and execute the following commands: ```cmd DROP DATABASE IF EXISTS `ocrsdjango`; CREATE DATABASE `ocrsdjango`; USE `ocrsdjango`; ``` And a new database will be created.
 2. First we’d need to install the pre-requisite modules by opening the command prompt / terminal, Go inside the project folder and then type the following command: ``` pip install -r requirements.txt ```
 3. Type the following command to run the webserver: ``` python manage.py runserver ```
 4. Finally, open the browser and go to `http://127.0.0.1:8000/`
